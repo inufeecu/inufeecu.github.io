@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://inufeecu.github.io/Ooj/sitemap_index.txt
+Sitemap: https://inufeecu.github.io/PyT/sitemap_index.txt
+Sitemap: https://inufeecu.github.io/hmK/sitemap_index.txt
+Sitemap: https://inufeecu.github.io/wvd/sitemap_index.txt
